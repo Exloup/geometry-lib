@@ -1,3 +1,3 @@
-modul github.com/Exloup/geometry-lib
+module github.com/Exloup/geometry-lib
 
 go 1.19
